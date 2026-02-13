@@ -1,2 +1,1 @@
-# Port-scanner
-Gemini said This high-performance port scanner is a fast, asynchronous tool for network reconnaissance. Built for speed and accuracy, it leverages multi-threading to scan thousands of ports in seconds. Ideal for security audits, it identifies open services and maps attack surfaces with customizable CLI inputs and structured JSON/CSV data output.
+
